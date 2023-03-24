@@ -1,4 +1,4 @@
-package org.example.studente;
+package org.example.es2;
 
 public class SMain {
     public static void main(String[] args) {

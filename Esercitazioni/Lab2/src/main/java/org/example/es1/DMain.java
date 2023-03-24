@@ -1,4 +1,4 @@
-package org.example.distributorebibite;
+package org.example.es1;
 
 public class DMain {
     public static void main(String[] args) {
