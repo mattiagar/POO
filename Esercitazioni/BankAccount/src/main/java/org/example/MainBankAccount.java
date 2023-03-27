@@ -1,6 +1,6 @@
 package org.example;
 
-public class Main {
+public class MainBankAccount {
     /**Tests the methods of the BankAccount class.**/
     public static void main(String[] args) {
         BankAccount harrysChecking = new BankAccount();

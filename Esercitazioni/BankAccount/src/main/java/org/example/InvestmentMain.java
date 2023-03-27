@@ -1,6 +1,6 @@
 package org.example;
 
-public class MainInvestment {
+public class InvestmentMain {
     /**
      This program computes how long it takes for an investment
      to double.
