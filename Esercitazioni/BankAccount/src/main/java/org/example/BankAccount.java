@@ -13,7 +13,7 @@ public class BankAccount {
         public BankAccount(double initialBalance) {
             balance = initialBalance;
         }
-        
+
          /**Constructs a bank account with a zero balance
         @param anAccountNumber the account number for this account*/
         public BankAccount(int anAccountNumber) {
