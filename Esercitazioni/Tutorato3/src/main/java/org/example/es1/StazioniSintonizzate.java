@@ -1,8 +1,6 @@
-package org.example;
+package org.example.es1;
 
-import java.lang.reflect.Array;
-
-public class StazioniSintonizzate extends Televisore{
+public class StazioniSintonizzate extends Televisore {
     StazioniSintonizzate(int c){
         super(c);
     }
